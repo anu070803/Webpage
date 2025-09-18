@@ -32,13 +32,21 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 
 📸 Screenshots -
 
-Home Page
+# 📸 Project Demo
 
-Login Page
+### 🏠 Home Page
+![Home Page](./home%20page%20scr.png)
 
-Skills/Projects Page
+### 🔑 Login Page
+![Login Page](./login%20page%20scr.png)
 
-Logout Page
+### 🎓 Education Page
+![Education Page](./education%20page%20scr.png)
+
+### 📂 Other Page
+![Other Page](./other%20scr.png)
+
+
 
 ⚡ How to Run -
 
