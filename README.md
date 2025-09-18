@@ -44,22 +44,22 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 ![Contact Page](./contact%20page%20scr.png)
 
 ### 📂 About Page
-![About Page](./about%20scr.png)
+![About Page](./about%20page%20scr.png)
 
 ### 📂 Education Page
-![Education Page](./education%20scr.png)
+![Education Page](./education%20page%20scr.png)
 
 ### 📂 Skills Page
-![Skills Page](./skills%20scr.png)
+![Skills Page](./skills%20page%20scr.png)
 
 ### 📂 Projects Page
-![Projects Page](./projects%20scr.png)
+![Projects Page](./projects%20page%20scr.png)
 
 ### 📂 Achievements Page
-![Achievements Page](./achievements%20scr.png)
+![Achievements Page](./achievements%20page%20scr.png)
 
 ### 📂 Others Page
-![Others Page](./Others%20scr.png)
+![Others Page](./others%20page%20scr.png)
 
 
 
