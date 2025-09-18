@@ -34,31 +34,31 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 
 # 📸 Project Demo
 
-### 🏠 Login Page
+### 🔑 Login Page
 ![Login page](./login%20page%20scr.png)
 
-### 🔑 Home Page
+### 🏠 Home Page
 ![Home Page](./home%20page%20scr.png)
 
-### 🎓 Contact Page
+### 📞 Contact Page
 ![Contact Page](./contact%20page%20scr.png)
 
-### 📂 About Page
+### ℹ️ About Page
 ![About Page](./about%20page%20scr.png)
 
-### 📂 Education Page
+### 🎓 Education Page
 ![Education Page](./education%20page%20scr.png)
 
-### 📂 Skills Page
+### 🛠️ Skills Page
 ![Skills Page](./skills%20page%20scr.png)
 
 ### 📂 Projects Page
 ![Projects Page](./project%20page%20scr.png)
 
-### 📂 Achievements Page
+### 🏆 Achievements Page
 ![Achievements Page](./achievements%20page%20scr.png)
 
-### 📂 Other Page
+### 📑 Other Page
 ![Other Page](./other%20scr.png)
 
 
