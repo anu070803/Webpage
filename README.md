@@ -35,7 +35,7 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 # 📸 Project Demo
 
 ### 🏠 Home Page
-![Home Page](./home%20page%20scr.png)
+![login page](./login%20page%20scr.png)
 
 ### 🔑 Login Page
 ![Login Page](./login%20page%20scr.png)
