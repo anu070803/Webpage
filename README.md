@@ -53,13 +53,13 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 ![Skills Page](./skills%20page%20scr.png)
 
 ### 📂 Projects Page
-![Projects Page](./projects%20page%20scr.png)
+![Projects Page](./project%20page%20scr.png)
 
 ### 📂 Achievements Page
 ![Achievements Page](./achievements%20page%20scr.png)
 
-### 📂 Others Page
-![Others Page](./others%20page%20scr.png)
+### 📂 Other Page
+![Other Page](./other%20scr.png)
 
 
 
