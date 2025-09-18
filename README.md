@@ -30,21 +30,36 @@ It contains multiple interactive pages such as Home, About, Skills, Projects, Ac
 
   📂 Tomcat Deployment: Application packaged and deployed on Apache Tomcat server
 
-📸 Screenshots -
+
 
 # 📸 Project Demo
 
-### 🏠 Home Page
-![login page](./login%20page%20scr.png)
+### 🏠 Login Page
+![Login page](./login%20page%20scr.png)
 
-### 🔑 Login Page
-![Login Page](./login%20page%20scr.png)
+### 🔑 Home Page
+![Home Page](./home%20page%20scr.png)
 
-### 🎓 Education Page
-![Education Page](./education%20page%20scr.png)
+### 🎓 Contact Page
+![Contact Page](./contact%20page%20scr.png)
 
-### 📂 Other Page
-![Other Page](./other%20scr.png)
+### 📂 About Page
+![About Page](./about%20scr.png)
+
+### 📂 Education Page
+![Education Page](./education%20scr.png)
+
+### 📂 Skills Page
+![Skills Page](./skills%20scr.png)
+
+### 📂 Projects Page
+![Projects Page](./projects%20scr.png)
+
+### 📂 Achievements Page
+![Achievements Page](./achievements%20scr.png)
+
+### 📂 Others Page
+![Others Page](./Others%20scr.png)
 
 
 
